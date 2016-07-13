@@ -21,7 +21,6 @@ const User = (state = JSON.parse(Tool.localItem('User')), action) => {
 
 }
 
-
 const DB = (_ID = '', seting = {}) => {
     const cb = {
         setDefaut: () => {

@@ -17,7 +17,6 @@ Tool.ajax = function (mySetting) {
         error: function () { } //请求失败执行方法
     };
 
-
     var aData = []; //存储数据
     var sData = ''; //拼接数据
     //属性覆盖

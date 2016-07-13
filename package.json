@@ -1,5 +1,5 @@
 {
-  "name": "react-cnode",
+  "name": "webpack-react-ES6-redux-less-flex",
   "version": "1.0.1",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1340641314/react-cnode.git"
+    "url": "https://github.com/chenrunsheng1991/webpack-react-ES6-redux-less-flex.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1340641314/react-cnode/issues"
+    "url": "https://github.com/chenrunsheng1991/webpack-react-ES6-redux-less-flex/issues"
   },
-  "homepage": "https://github.com/1340641314/react-cnode#readme",
+  "homepage": "https://github.com/chenrunsheng1991/react-cnode#readme",
   "dependencies": {
     "flex-css-layout": "^1.2.8",
     "get-next-page": "1.0.0",
